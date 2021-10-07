@@ -4,7 +4,7 @@
   "description": "Coding bootcamp module 10 project",
   "main": "index.js",
   "scripts": {
-    "test": "launch"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
