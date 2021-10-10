@@ -25,5 +25,8 @@
   "homepage": "https://github.com/DuckArroyo/jest-another-rpg#readme",
   "devDependencies": {
     "jest": "^27.2.4"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
